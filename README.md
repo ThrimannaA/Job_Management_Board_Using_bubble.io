@@ -12,6 +12,11 @@ This application meets all core requirements and includes additional professiona
 •	Responsive design - Table scrolls horizontally
 
 
-Bubble Editor:
+Permissions
+•	View: Anyone (enabled)
+•	Edit: Anyone (enabled)
+No login required - app is publicly accessible.
+
+Job Management Board Bubble Editor URL:
 
 [https://bubble.io/page?id=job-manager-anuji&tab=Design&name=index&elements=bTGnB](url)
