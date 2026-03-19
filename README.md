@@ -10,3 +10,8 @@ This application meets all core requirements and includes additional professiona
 •	Empty state - Friendly message with icon guides users when no jobs exist
 •	Success alerts - Toast notifications confirm all user actions
 •	Responsive design - Table scrolls horizontally
+
+
+Bubble Editor:
+
+[https://bubble.io/page?id=job-manager-anuji&tab=Design&name=index&elements=bTGnB](url)
