@@ -12,6 +12,10 @@ This application meets all core requirements and includes additional professiona
 •	Responsive design - Table scrolls horizontally
 
 
+Demo Video Link:
+[https://drive.google.com/file/d/1l7Vpa-eWIFIkuC-DgWAqoYpIpuEvyqT6/view](url)
+
+
 Permissions
 •	View: Anyone (enabled)
 •	Edit: Anyone (enabled)
