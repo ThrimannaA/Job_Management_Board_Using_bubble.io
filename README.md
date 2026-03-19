@@ -12,8 +12,8 @@ This application meets all core requirements and includes additional professiona
 •	Responsive design - Table scrolls horizontally
 
 
-Demo Video Link:
-You can view the Job Management Tool Demo Video link by copying and pasting the following link into your web browser:
+# Demo Video Link:
+# You can view the Job Management Tool Demo Video link by copying and pasting the following link into your web browser:
 
 [https://drive.google.com/file/d/1l7Vpa-eWIFIkuC-DgWAqoYpIpuEvyqT6/view](url)
 
@@ -23,7 +23,7 @@ Permissions
 •	Edit: Anyone (enabled)
 No login required - app is publicly accessible.
 
-Job Management Board Bubble Editor URL:
-You can view the Job Management Tool in Editor View by copying and pasting the following link into your web browser:
+# Job Management Board Bubble Editor URL:
+# You can view the Job Management Tool in Editor View by copying and pasting the following link into your web browser:
 
 [https://bubble.io/page?id=job-manager-anuji&tab=Design&name=index&elements=bTGnB](url)
